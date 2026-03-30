@@ -48,7 +48,7 @@
 ##  Contato
 
 <p align="center">
-  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/leticia-schiavon/)">
+  <a href="https://www.linkedin.com/in/leticia-schiavon/">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=FF4C4C">
   </a>
 </p>
@@ -57,5 +57,15 @@
 
 ```bash
 "Sempre aprendendo, sempre evoluindo."
+```
+
+
+---
+
+## 🖤 Filosofia
+
+```bash
+"Código limpo não é escrito seguindo regras,
+mas entendendo o porquê delas."
 ```
 
