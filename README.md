@@ -45,13 +45,6 @@
 
 ---
 
-## 🐍 Contribuições
-
-<p align="center">
-  <img src="https://github.com/LeticiaAmeliaSchiavon/LeticiaAmeliaSchiavon/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
 
 ##  Contato
 
