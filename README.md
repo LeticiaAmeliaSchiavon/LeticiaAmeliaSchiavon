@@ -58,14 +58,3 @@
 ```bash
 "Sempre aprendendo, sempre evoluindo."
 ```
-
-
----
-
-## 🖤 Filosofia
-
-```bash
-"Código limpo não é escrito seguindo regras,
-mas entendendo o porquê delas."
-```
-
