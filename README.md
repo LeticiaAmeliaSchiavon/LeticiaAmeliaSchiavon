@@ -28,7 +28,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,js,nodejs,mongodb,firebase,docker,git" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,js,css,html,nodejs,mongodb,docker,git" />
 
 </p>
 
