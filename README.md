@@ -38,22 +38,6 @@
 
 ---
 
-##  Projetos em Destaque
-
-```bash
-> AgentPay AWS — Chatbot de Pagamentos  (https://github.com/LeticiaAmeliaSchiavon/agente-pagamentos-aws)
-  Projeto prático desenvolvido no bootcamp AWS AI FDE
-  Agentic Payments da Compass UOL.
-
-  Tecnologias: React • Vite • Node.js • Express • MCP • Ollama
-
-  Foco: integração de APIs, agentes de IA e fluxo
-  conversacional para simulação de compras.
-```
-
----
-
-
 ##  Objetivos
 
 ```bash
