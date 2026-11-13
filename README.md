@@ -41,7 +41,7 @@
 ##  Projetos em Destaque
 
 ```bash
-> AgentPay — Chatbot de Pagamentos Agênticos (https://github.com/Renanpacheco/bootagentpay)
+> AgentPay AWS — Chatbot de Pagamentos  (https://github.com/LeticiaAmeliaSchiavon/agente-pagamentos-aws)
   Projeto prático desenvolvido no bootcamp AWS AI FDE
   Agentic Payments da Compass UOL.
 
